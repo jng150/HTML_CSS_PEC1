@@ -1,0 +1,586 @@
+[
+    {
+        "Title": "Winter Is Coming",
+        "Released": "2011-04-17",
+        "Episode": "1",
+        "Season": "1",
+        "Synopsis": "En el episodio de apertura, los miembros de la familia Stark reciben la visita del rey Robert Baratheon, lo que desencadena una serie de eventos que cambiarán el destino de Poniente. Mientras tanto, al norte del muro, se descubre una amenaza ancestral que pone en peligro a todos. Winter is coming, y con él, se desatan las intrigas y luchas de poder que definirán la serie.",
+        "youtubeLink": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/kAoE7RPb_RY?si=Kh3bS334p2LQ347U\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    },
+    {
+        "Title": "The Kingsroad",
+        "Released": "2011-04-24",
+        "Episode": "2",
+        "Season": "1",
+        "Synopsis": "La familia Stark emprende el viaje hacia el sur, enfrentándose a desafíos y revelaciones en el camino. Mientras tanto, Daenerys Targaryen, la última heredera de la Casa Targaryen, comienza a comprender el alcance de su destino. En King's Landing, Eddard Stark asume el papel de Mano del Rey, sumergiéndose en un peligroso juego de intrigas políticas.",
+        "youtubeLink": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/njgNtpN2-BU?si=8ZfjiXQUVsMFjYNz\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    },
+    {
+        "Title": "Lord Snow",
+        "Released": "2011-05-01",
+        "Episode": "3",
+        "Season": "1",
+        "Synopsis": "Jon Snow, el bastardo de la familia Stark, llega a la Muralla para unirse a la Guardia de la Noche. En King's Landing, intrigas y conspiraciones se desarrollan mientras Eddard Stark asume el papel de Mano del Rey. La amenaza de los Otros se intensifica al norte, mientras que en el continente, las rivalidades y alianzas se forjan con consecuencias impredecibles.",
+        "youtubeLink": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/YpwHSFrC3B8?si=OJ99SqZxCE5uZAxh\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    },
+    {
+        "Title": "Cripples, Bastards, and Broken Things",
+        "Released": "2011-05-08",
+        "Episode": "4",
+        "Season": "1",
+        "Synopsis": "Secretos y pasados turbulentos salen a la luz cuando Tyrion Lannister llega a Winterfell. Mientras tanto, en King's Landing, los juegos de poder continúan, y las lealtades son puestas a prueba. La sombra del conflicto se cierne sobre Poniente, y cada decisión tomada tendrá repercusiones en la lucha por el Trono de Hierro.",
+        "youtubeLink": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/X7oOPi6QvF4?si=Jr5cwqAzumf8Re6e\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    },
+    {
+        "Title": "The Wolf and the Lion",
+        "Released": "2011-05-15",
+        "Episode": "5",
+        "Season": "1",
+        "Synopsis": "Las tensiones se intensifican a medida que las casas poderosas de Poniente chocan en una lucha por el poder. Mientras Eddard Stark y Robert Baratheon enfrentan desafíos en King's Landing, las sombras de la conspiración y la traición se ciernen sobre ellos. En el juego de tronos, solo los más astutos sobrevivirán, y la verdadera batalla por el dominio está por comenzar.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_5"
+    },
+    {
+        "Title": "A Golden Crown",
+        "Released": "2011-05-22",
+        "Episode": "6",
+        "Season": "1",
+        "Synopsis": "Después de un enfrentamiento tenso en las tierras de los ríos, Eddard Stark se encuentra en una posición precaria. Mientras tanto, Daenerys Targaryen enfrenta nuevos desafíos en su viaje hacia el poder. En King's Landing, las intrigas alcanzan nuevos niveles, y cada movimiento puede resultar fatal.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_6"
+    },
+    {
+        "Title": "You Win or You Die",
+        "Released": "2011-05-29",
+        "Episode": "7",
+        "Season": "1",
+        "Synopsis": "Las apuestas se elevan a medida que las alianzas se forman y se rompen. En King's Landing, Eddard Stark se enfrenta a decisiones difíciles, y su lealtad se pone a prueba. Mientras tanto, en el norte, la Guardia de la Noche se prepara para enfrentarse a una amenaza ancestral que se avecina.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_7"
+    },
+    {
+        "Title": "The Pointy End",
+        "Released": "2011-06-05",
+        "Episode": "8",
+        "Season": "1",
+        "Synopsis": "Con la captura de Eddard Stark, la guerra por el Trono de Hierro alcanza nuevas alturas. Mientras las casas poderosas toman posiciones, Arya Stark se encuentra en una situación peligrosa. La lealtad y la traición se entrelazan, y en todo Poniente, se toman decisiones que cambiarán el curso de la historia.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_8"
+    },
+    {
+        "Title": "Baelor",
+        "Released": "2011-06-12",
+        "Episode": "9",
+        "Season": "1",
+        "Synopsis": "En un momento decisivo, las acciones de Eddard Stark tienen consecuencias impactantes. Mientras tanto, Robb Stark busca justicia y venganza en el campo de batalla. En King's Landing, la lucha por el poder se intensifica, y cada movimiento se vuelve crucial en la lucha por el dominio.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_9"
+    },
+    {
+        "Title": "Fire and Blood",
+        "Released": "2011-06-19",
+        "Episode": "10",
+        "Season": "1",
+        "Synopsis": "La primera temporada llega a su épico final con revelaciones sorprendentes y eventos que cambiarán Poniente para siempre. Mientras las llamas de los dragones renacen, las alianzas se rompen y se forman, y el juego de tronos entra en una nueva y emocionante fase.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_10"
+    },
+    {
+        "Title": "The North Remembers",
+        "Released": "2012-04-01",
+        "Episode": "1",
+        "Season": "2",
+        "Synopsis": "En la segunda temporada, las consecuencias de la guerra por el Trono de Hierro se hacen evidentes. Mientras el norte recuerda y se prepara para la guerra, en King's Landing, nuevas amenazas y desafíos emergen.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_11"
+    },
+    {
+        "Title": "The Night Lands",
+        "Released": "2012-04-08",
+        "Episode": "2",
+        "Season": "2",
+        "Synopsis": "En el segundo episodio de la temporada, los personajes se enfrentan a las realidades del poder y la supervivencia. Arya Stark se encuentra con nuevos amigos, mientras que en el norte, Jon Snow enfrenta desafíos en su misión más allá del muro.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_12"
+    },
+    {
+        "Title": "What Is Dead May Never Die",
+        "Released": "2012-04-15",
+        "Episode": "3",
+        "Season": "2",
+        "Synopsis": "Las maquinaciones políticas se intensifican en King's Landing mientras las alianzas se forjan y se rompen. Mientras tanto, en las Islas de Hierro, nuevos personajes y conspiraciones entran en juego. En el continente, la amenaza de la guerra sigue creciendo.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_13"
+    },
+    {
+        "Title": "Garden of Bones",
+        "Released": "2012-04-22",
+        "Episode": "4",
+        "Season": "2",
+        "Synopsis": "La brutalidad de la guerra se hace evidente en el cuarto episodio de la temporada. Mientras los personajes enfrentan la crueldad y el sufrimiento, las decisiones difíciles deben tomarse para asegurar la supervivencia y la victoria.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_14"
+    },
+    {
+        "Title": "The Ghost of Harrenhal",
+        "Released": "2012-04-29",
+        "Episode": "5",
+        "Season": "2",
+        "Synopsis": "En el quinto episodio, las sombras del pasado regresan para atormentar a los personajes. En King's Landing, la lealtad se pone a prueba, y en Harrenhal, un nuevo jugador entra en escena. Mientras tanto, en el norte, la amenaza más allá del muro se intensifica.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_15"
+    },
+    {
+        "Title": "The Old Gods and the New",
+        "Released": "2012-05-06",
+        "Episode": "6",
+        "Season": "2",
+        "Synopsis": "La lucha por el poder se intensifica en King's Landing y más allá. En el sexto episodio de la temporada, las alianzas se forman y se rompen, y la lealtad es puesta a prueba. Mientras tanto, en el norte, Jon Snow se enfrenta a nuevos desafíos en su misión.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_16"
+    },
+    {
+        "Title": "A Man Without Honor",
+        "Released": "2012-05-13",
+        "Episode": "7",
+        "Season": "2",
+        "Synopsis": "En el séptimo episodio, los secretos y las mentiras amenazan con destruir a los personajes. Mientras las intrigas se desarrollan en varios frentes, las consecuencias de las acciones pasadas cobran su precio. En el norte, la amenaza de los salvajes se vuelve más inminente.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_17"
+    },
+    {
+        "Title": "The Prince of Winterfell",
+        "Released": "2012-05-20",
+        "Episode": "8",
+        "Season": "2",
+        "Synopsis": "La tensión alcanza su punto máximo en el octavo episodio de la temporada. Mientras los personajes enfrentan decisiones difíciles, las repercusiones de la guerra y la política continúan afectando a Poniente. En King's Landing, los juegos de poder llegan a un nuevo nivel.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_18"
+    },
+    {
+        "Title": "Blackwater",
+        "Released": "2012-05-27",
+        "Episode": "9",
+        "Season": "2",
+        "Synopsis": "El noveno episodio presenta una batalla épica en King's Landing. Mientras los ejércitos se enfrentan y los personajes toman posiciones, el destino de Poniente pende de un hilo. La guerra por el Trono de Hierro alcanza su punto álgido.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_19"
+    },
+    {
+        "Title": "Valar Morghulis",
+        "Released": "2012-06-03",
+        "Episode": "10",
+        "Season": "2",
+        "Synopsis": "La segunda temporada llega a su conclusión con revelaciones impactantes y giros inesperados. Mientras algunas historias llegan a su fin, otras apenas comienzan. Poniente se prepara para los desafíos que se avecinan en el horizonte.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_20"
+    },
+    {
+        "Title": "Valar Dohaeris",
+        "Released": "2013-03-31",
+        "Episode": "1",
+        "Season": "3",
+        "Synopsis": "En la tercera temporada, los personajes enfrentan nuevas amenazas y desafíos. En el primer episodio, Jon Snow se encuentra más allá del muro, Daenerys Targaryen busca aliados, y en King's Landing, las intrigas políticas continúan.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_21"
+    },
+    {
+        "Title": "Dark Wings, Dark Words",
+        "Released": "2013-04-07",
+        "Episode": "2",
+        "Season": "3",
+        "Synopsis": "En el segundo episodio, las sombras del pasado regresan para atormentar a los personajes. Mientras los secretos salen a la luz, los vínculos se ponen a prueba. Arya Stark sigue su propio camino, enfrentándose a nuevos peligros en su viaje.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_22"
+    },
+    {
+        "Title": "Walk of Punishment",
+        "Released": "2013-04-14",
+        "Episode": "3",
+        "Season": "3",
+        "Synopsis": "Las consecuencias de las decisiones pasadas afectan a los personajes en el tercer episodio de la temporada. Mientras Jaime Lannister enfrenta nuevas realidades, Daenerys Targaryen toma medidas audaces en su búsqueda del trono.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_23"
+    },
+    {
+        "Title": "And Now His Watch Is Ended",
+        "Released": "2013-04-21",
+        "Episode": "4",
+        "Season": "3",
+        "Synopsis": "El cuarto episodio marca un punto de inflexión en la historia. Mientras los personajes enfrentan desafíos inesperados, los juegos de poder se intensifican. En el norte, Jon Snow lucha por encontrar su lugar en la Guardia de la Noche.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_24"
+    },
+    {
+        "Title": "Kissed by Fire",
+        "Released": "2013-04-28",
+        "Episode": "5",
+        "Season": "3",
+        "Synopsis": "En el quinto episodio, las llamas del amor y la guerra arden en Poniente. Mientras algunos personajes encuentran consuelo en la pasión, otros enfrentan conflictos internos y decisiones difíciles. La lucha por el trono continúa.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_25"
+    },
+    {
+        "Title": "The Climb",
+        "Released": "2013-05-05",
+        "Episode": "6",
+        "Season": "3",
+        "Synopsis": "El sexto episodio lleva a los personajes a nuevas alturas y peligros. Mientras algunos buscan alcanzar la cima, otros enfrentan caídas devastadoras. En King's Landing, las alianzas y traiciones definen el juego de tronos.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_26"
+    },
+    {
+        "Title": "The Bear and the Maiden Fair",
+        "Released": "2013-05-12",
+        "Episode": "7",
+        "Season": "3",
+        "Synopsis": "En el séptimo episodio, los personajes enfrentan desafíos que pondrán a prueba su valentía y lealtad. Mientras algunos encuentran esperanza, otros se ven atrapados en situaciones peligrosas. La lucha por el poder alcanza nuevos niveles de intensidad.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_27"
+    },
+    {
+        "Title": "Second Sons",
+        "Released": "2013-05-19",
+        "Episode": "8",
+        "Season": "3",
+        "Synopsis": "El octavo episodio presenta la llegada de nuevos jugadores al tablero. Mientras Daenerys Targaryen busca fortalecer su posición, otros conspiran para socavarla. En el norte, la amenaza de los salvajes se vuelve más real que nunca.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_28"
+    },
+    {
+        "Title": "The Rains of Castamere",
+        "Released": "2013-06-02",
+        "Episode": "9",
+        "Season": "3",
+        "Synopsis": "El noveno episodio es testigo de eventos impactantes que cambiarán el curso de la historia. Mientras los personajes se reúnen para celebrar, las sombras de la traición y la tragedia se ciernen sobre ellos. Ningún jugador está a salvo en el juego de tronos.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_29"
+    },
+    {
+        "Title": "Mhysa",
+        "Released": "2013-06-09",
+        "Episode": "10",
+        "Season": "3",
+        "Synopsis": "La tercera temporada llega a su fin con el décimo episodio. Mientras algunos personajes encuentran esperanza y redención, otros enfrentan consecuencias devastadoras. Poniente se prepara para el caos que se avecina.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_30"
+    },
+    {
+        "Title": "Two Swords",
+        "Released": "2014-04-06",
+        "Episode": "1",
+        "Season": "4",
+        "Synopsis": "La cuarta temporada comienza con el primer episodio. Mientras la guerra y la política continúan afectando a Poniente, nuevos jugadores entran en escena. En King's Landing, Tyrion Lannister se enfrenta a un futuro incierto.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_31"
+    },
+    {
+        "Title": "The Lion and the Rose",
+        "Released": "2014-04-13",
+        "Episode": "2",
+        "Season": "4",
+        "Synopsis": "En el segundo episodio, los personajes se preparan para el evento más esperado: la boda real. Mientras las festividades comienzan, las tensiones y rivalidades ocultas salen a la luz. En el norte, la amenaza de los Otros sigue creciendo.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_32"
+    },
+    {
+        "Title": "Breaker of Chains",
+        "Released": "2014-04-20",
+        "Episode": "3",
+        "Season": "4",
+        "Synopsis": "El tercer episodio enfrenta a los personajes a las consecuencias de eventos impactantes. Mientras algunos buscan justicia y venganza, otros luchan por mantener el equilibrio en un mundo cada vez más inestable. La batalla por el Trono de Hierro continúa.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_33"
+    },
+    {
+        "Title": "Oathkeeper",
+        "Released": "2014-04-27",
+        "Episode": "4",
+        "Season": "4",
+        "Synopsis": "En el cuarto episodio, los votos y las lealtades son puestos a prueba. Mientras algunos juran proteger, otros rompen sus promesas. En el norte, Jon Snow se enfrenta a dilemas difíciles en su misión más allá del muro.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_34"
+    },
+    {
+        "Title": "First of His Name",
+        "Released": "2014-05-04",
+        "Episode": "5",
+        "Season": "4",
+        "Synopsis": "El quinto episodio lleva a los personajes a nuevos territorios y desafíos. Mientras algunos reclaman sus derechos de nacimiento, otros enfrentan amenazas desconocidas. En King's Landing, la política y la religión chocan.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_35"
+    },
+    {
+        "Title": "The Laws of Gods and Men",
+        "Released": "2014-05-11",
+        "Episode": "6",
+        "Season": "4",
+        "Synopsis": "El sexto episodio presenta juicios y decisiones que cambiarán el destino de los personajes. Mientras algunos buscan justicia, otros luchan por sobrevivir en un mundo implacable. En el norte, la amenaza de los salvajes sigue creciendo.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_36"
+    },
+    {
+        "Title": "Mockingbird",
+        "Released": "2014-05-18",
+        "Episode": "7",
+        "Season": "4",
+        "Synopsis": "En el séptimo episodio, los personajes enfrentan sus miedos y deseos más profundos. Mientras algunos buscan redención, otros caen más en la oscuridad. En el norte, la llegada del invierno se siente más real que nunca.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_37"
+    },
+    {
+        "Title": "The Mountain and the Viper",
+        "Released": "2014-06-01",
+        "Episode": "8",
+        "Season": "4",
+        "Synopsis": "El octavo episodio presenta enfrentamientos épicos y giros impactantes. Mientras algunos luchan por la justicia, otros buscan venganza. En el norte, la Guardia de la Noche se prepara para el peligro que se avecina más allá del muro.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_38"
+    },
+    {
+        "Title": "The Watchers on the Wall",
+        "Released": "2014-06-08",
+        "Episode": "9",
+        "Season": "4",
+        "Synopsis": "El noveno episodio presenta la épica batalla en el muro. Mientras la Guardia de la Noche enfrenta una amenaza masiva, los personajes luchan por su supervivencia. En el sur, las conspiraciones y alianzas definen el futuro de Poniente.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_39"
+    },
+    {
+        "Title": "The Children",
+        "Released": "2014-06-15",
+        "Episode": "10",
+        "Season": "4",
+        "Synopsis": "La cuarta temporada llega a su clímax con el episodio final. Mientras los personajes enfrentan sus destinos, las consecuencias de sus acciones se hacen evidentes. En el norte, la amenaza más allá del Muro crece, y en King's Landing, los juegos de poder continúan con consecuencias mortales.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_40"
+    },
+    {
+        "Title": "The Wars to Come",
+        "Released": "2015-04-12",
+        "Episode": "1",
+        "Season": "5",
+        "Synopsis": "La quinta temporada comienza con el episodio \"The Wars to Come\". Mientras los eventos pasados resuenan en los personajes, nuevas alianzas se forman y antiguas enemistades se intensifican. En Essos, Daenerys Targaryen se enfrenta a nuevos desafíos en su búsqueda del Trono de Hierro.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_41"
+    },
+    {
+        "Title": "The House of Black and White",
+        "Released": "2015-04-19",
+        "Episode": "2",
+        "Season": "5",
+        "Synopsis": "En el segundo episodio de la quinta temporada, los personajes se enfrentan a decisiones difíciles y nuevos entornos. Arya Stark llega a Braavos y se encuentra con el Hombre Sin Rostro, mientras Cersei Lannister busca respuestas en King's Landing. En el norte, la situación en la Muralla se vuelve más tensa.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_42"
+    },
+    {
+        "Title": "High Sparrow",
+        "Released": "2015-04-26",
+        "Episode": "3",
+        "Season": "5",
+        "Synopsis": "Las intrigas y las conspiraciones continúan en el tercer episodio de la quinta temporada. Mientras Cersei Lannister se enfrenta a nuevos desafíos, en Braavos, Arya Stark comienza su entrenamiento con el Hombre Sin Rostro. En el norte, Jon Snow toma decisiones difíciles en su papel como Lord Comandante.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_43"
+    },
+    {
+        "Title": "Sons of the Harpy",
+        "Released": "2015-05-03",
+        "Episode": "4",
+        "Season": "5",
+        "Synopsis": "La quinta temporada avanza con el cuarto episodio, donde las intrigas y las tensiones se intensifican en Meereen y King's Landing. Mientras Daenerys Targaryen lucha por mantener el control en Essos, en King's Landing, Cersei Lannister enfrenta nuevas amenazas. En el norte, la situación en la Muralla se vuelve más peligrosa.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_44"
+    },
+    {
+        "Title": "Kill the Boy",
+        "Released": "2015-05-10",
+        "Episode": "5",
+        "Season": "5",
+        "Synopsis": "En el quinto episodio, las tensiones aumentan en King's Landing y en Meereen. Mientras Jon Snow toma decisiones difíciles en el norte, Daenerys Targaryen lucha por mantener el control en Essos. En Dorne, nuevas conspiraciones se desarrollan, y en el norte, la amenaza de los Otros crece.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_45"
+    },
+    {
+        "Title": "Unbowed, Unbent, Unbroken",
+        "Released": "2015-05-17",
+        "Episode": "6",
+        "Season": "5",
+        "Synopsis": "El sexto episodio de la quinta temporada presenta desafíos y pruebas para varios personajes. Mientras Arya Stark continúa su entrenamiento en Braavos, en Dorne, las tensiones aumentan. En el norte, Jon Snow enfrenta desafíos en Castle Black, y en King's Landing, los secretos se vuelven más peligrosos.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_46"
+    },
+    {
+        "Title": "The Gift",
+        "Released": "2015-05-24",
+        "Episode": "7",
+        "Season": "5",
+        "Synopsis": "En el séptimo episodio, los personajes enfrentan decisiones que cambiarán el curso de sus vidas. Mientras Jon Snow negocia con los salvajes, en King's Landing, las tensiones religiosas alcanzan un punto álgido. En Essos, Tyrion Lannister y Jorah Mormont continúan su viaje hacia Meereen.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_47"
+    },
+    {
+        "Title": "Hardhome",
+        "Released": "2015-05-31",
+        "Episode": "8",
+        "Season": "5",
+        "Synopsis": "El octavo episodio de la quinta temporada presenta un enfrentamiento épico más allá del Muro. Mientras Jon Snow y los salvajes enfrentan la amenaza de los Otros, en King's Landing, Cersei Lannister lucha por su supervivencia. En Essos, Daenerys Targaryen toma decisiones impactantes en Meereen.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_48"
+    },
+    {
+        "Title": "The Dance of Dragons",
+        "Released": "2015-06-07",
+        "Episode": "9",
+        "Season": "5",
+        "Synopsis": "El penúltimo episodio de la quinta temporada, \"The Dance of Dragons\", presenta momentos impactantes y decisiones que cambiarán Westeros para siempre. Mientras Stannis Baratheon se enfrenta a desafíos críticos, en Meereen, la arena de lucha se convierte en el escenario de eventos sorprendentes.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_49"
+    },
+    {
+        "Title": "Mother's Mercy",
+        "Released": "2015-06-14",
+        "Episode": "10",
+        "Season": "5",
+        "Synopsis": "La quinta temporada llega a su fin con el episodio \"Mother's Mercy\". Mientras los personajes enfrentan sus destinos, las consecuencias de sus acciones reverberan en todo Westeros. En el norte, la situación en la Muralla se vuelve cada vez más complicada, y en King's Landing, la lucha por el poder alcanza un nuevo nivel de intensidad.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_50"
+    },
+    {
+        "Title": "The Red Woman",
+        "Released": "2016-04-24",
+        "Episode": "1",
+        "Season": "6",
+        "Synopsis": "La sexta temporada comienza con \"The Red Woman\", donde los eventos impactantes del final de la quinta temporada tienen repercusiones en todo Westeros. Mientras los personajes se enfrentan a nuevas amenazas y desafíos, en el norte, la verdadera naturaleza de Jon Snow se revela.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_51"
+    },
+    {
+        "Title": "Home",
+        "Released": "2016-05-01",
+        "Episode": "2",
+        "Season": "6",
+        "Synopsis": "En el segundo episodio, \"Home\", los Stark se enfrentan a desafíos continuos, mientras Daenerys Targaryen lucha por su supervivencia en Essos. En King's Landing, la lucha por el poder toma giros inesperados, y en el norte, la amenaza de los Otros se vuelve más inminente.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_52"
+    },
+    {
+        "Title": "Oathbreaker",
+        "Released": "2016-05-08",
+        "Episode": "3",
+        "Season": "6",
+        "Synopsis": "El tercer episodio, \"Oathbreaker\", presenta momentos impactantes cuando Bran Stark explora el pasado y Jon Snow enfrenta las consecuencias de su resurrección. Mientras tanto, en Essos, Daenerys Targaryen intenta reunir a sus seguidores para retomar Meereen.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_53"
+    },
+    {
+        "Title": "Book of the Stranger",
+        "Released": "2016-05-15",
+        "Episode": "4",
+        "Season": "6",
+        "Synopsis": "En el cuarto episodio, \"Book of the Stranger\", los personajes se enfrentan a reuniones emocionales y enfrentamientos intensos. Mientras Sansa Stark busca la ayuda de aliados inesperados, en Essos, Daenerys Targaryen toma medidas audaces para asegurar su posición en Meereen.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_54"
+    },
+    {
+        "Title": "The Door",
+        "Released": "2016-05-22",
+        "Episode": "5",
+        "Season": "6",
+        "Synopsis": "El quinto episodio, \"The Door\", presenta eventos impactantes y revelaciones que cambian el curso de la historia. Mientras Bran Stark explora el pasado, en Essos, Arya Stark enfrenta nuevas pruebas. En el norte, la amenaza de los Otros se vuelve cada vez más evidente.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_55"
+    },
+    {
+        "Title": "Blood of My Blood",
+        "Released": "2016-05-29",
+        "Episode": "6",
+        "Season": "6",
+        "Synopsis": "En el sexto episodio, \"Blood of My Blood\", las tensiones aumentan en King's Landing y en el norte. Mientras Daenerys Targaryen enfrenta nuevos desafíos en Essos, en el norte, Bran Stark descubre secretos del pasado. En Braavos, Arya Stark toma decisiones que afectarán su futuro.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_56"
+    },
+    {
+        "Title": "The Broken Man",
+        "Released": "2016-06-05",
+        "Episode": "7",
+        "Season": "6",
+        "Synopsis": "El séptimo episodio, \"The Broken Man\", presenta nuevas alianzas y conflictos en Westeros. Mientras Sansa Stark y Jon Snow buscan apoyo para retomar Winterfell, en King's Landing, las luchas de poder toman un giro sorprendente. En Essos, Arya Stark enfrenta las consecuencias de sus elecciones.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_57"
+    },
+    {
+        "Title": "No One",
+        "Released": "2016-06-12",
+        "Episode": "8",
+        "Season": "6",
+        "Synopsis": "En el octavo episodio, \"No One\", los personajes enfrentan dilemas morales y consecuencias inesperadas. Mientras Jaime Lannister enfrenta desafíos en Riverrun, en Braavos, Arya Stark lucha por su vida. En el norte, la batalla por Winterfell se vuelve más intensa.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_58"
+    },
+    {
+        "Title": "Battle of the Bastards",
+        "Released": "2016-06-19",
+        "Episode": "9",
+        "Season": "6",
+        "Synopsis": "El noveno episodio, \"Battle of the Bastards\", es una espectacular batalla que decidirá el destino de Winterfell. Mientras Jon Snow y Sansa Stark se enfrentan a Ramsay Bolton, en Meereen, Daenerys Targaryen regresa con el objetivo de liberar la ciudad de la esclavitud.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_59"
+    },
+    {
+        "Title": "The Winds of Winter",
+        "Released": "2016-06-26",
+        "Episode": "10",
+        "Season": "6",
+        "Synopsis": "La sexta temporada llega a su fin con el episodio \"The Winds of Winter\". Mientras los personajes enfrentan las consecuencias de las batallas y las decisiones, nuevos líderes emergen y alianzas se rompen. En el norte, Jon Snow toma medidas para asegurar el futuro, y en King's Landing, Cersei Lannister asume el poder de una manera sorprendente.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_60"
+    },
+    {
+        "Title": "Dragonstone",
+        "Released": "2017-07-16",
+        "Episode": "1",
+        "Season": "7",
+        "Synopsis": "La séptima temporada comienza con 'Dragonstone'. Mientras Daenerys Targaryen llega a Westeros, Jon Snow organiza la defensa del norte. En King's Landing, Cersei Lannister prepara su estrategia para mantener el Trono de Hierro.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_61"
+    },
+    {
+        "Title": "Stormborn",
+        "Released": "2017-07-23",
+        "Episode": "2",
+        "Season": "7",
+        "Synopsis": "En el segundo episodio de la séptima temporada, titulado 'Stormborn', Daenerys Targaryen planifica su próximo movimiento después de llegar a Dragonstone. Jon Snow recibe una invitación de Daenerys, y Euron Greyjoy busca la alianza con Cersei Lannister.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_62"
+    },
+    {
+        "Title": "The Queen's Justice",
+        "Released": "2017-07-30",
+        "Episode": "3",
+        "Season": "7",
+        "Synopsis": "El tercer episodio, 'The Queen's Justice', presenta encuentros esperados y confrontaciones intensas. Daenerys Targaryen y Jon Snow se encuentran por primera vez, mientras Cersei Lannister busca venganza. En el norte, la amenaza del Rey de la Noche se intensifica.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_63"
+    },
+    {
+        "Title": "The Spoils of War",
+        "Released": "2017-08-06",
+        "Episode": "4",
+        "Season": "7",
+        "Synopsis": "En el cuarto episodio, 'The Spoils of War', la guerra se desata en Westeros. Daenerys Targaryen ataca con sus dragones, cambiando el curso de la lucha contra Cersei Lannister. Arya Stark regresa a Winterfell, y Bran Stark revela secretos ocultos.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_64"
+    },
+    {
+        "Title": "Eastwatch",
+        "Released": "2017-08-13",
+        "Episode": "5",
+        "Season": "7",
+        "Synopsis": "El quinto episodio, 'Eastwatch', reúne a personajes clave en la lucha contra la amenaza del norte. Jon Snow lidera una expedición más allá del Muro, y la verdad sobre la conexión de Jon se revela. Tyrion Lannister busca soluciones diplomáticas.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_65"
+    },
+    {
+        "Title": "Beyond the Wall",
+        "Released": "2017-08-20",
+        "Episode": "6",
+        "Season": "7",
+        "Synopsis": "En 'Beyond the Wall', el sexto episodio, Jon Snow y sus compañeros enfrentan peligros más allá del Muro. La relación entre Daenerys Targaryen y Jon Snow se profundiza, y los eventos tienen consecuencias impactantes. Arya Stark toma medidas en Winterfell.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_66"
+    },
+    {
+        "Title": "The Dragon and the Wolf",
+        "Released": "2017-08-27",
+        "Episode": "7",
+        "Season": "7",
+        "Synopsis": "La séptima temporada concluye con 'The Dragon and the Wolf'. Mientras las alianzas se forjan y se rompen, la amenaza del Rey de la Noche avanza. Jon Snow y Daenerys Targaryen enfrentan desafíos en su relación, y la verdad sobre el linaje de Jon se revela.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_67"
+    },
+    {
+        "Title": "Winterfell",
+        "Released": "2019-04-14",
+        "Episode": "1",
+        "Season": "8",
+        "Synopsis": "La octava temporada comienza con el episodio 'Winterfell'. Mientras Winterfell se prepara para la batalla, Jon Snow revela su verdadero linaje a Daenerys Targaryen. En King's Landing, Cersei Lannister se prepara para la llegada de los vivos.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_68"
+    },
+    {
+        "Title": "A Knight of the Seven Kingdoms",
+        "Released": "2019-04-21",
+        "Episode": "2",
+        "Season": "8",
+        "Synopsis": "En 'A Knight of the Seven Kingdoms', el segundo episodio, los personajes reflexionan sobre sus vidas antes de la batalla inminente. Brienne de Tarth es nombrada caballero, y Jon Snow revela su verdadero nombre a Daenerys Targaryen.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_69"
+    },
+    {
+        "Title": "The Long Night",
+        "Released": "2019-04-28",
+        "Episode": "3",
+        "Season": "8",
+        "Synopsis": "La batalla contra los muertos comienza en 'The Long Night', el tercer episodio de la octava temporada. Winterfell se convierte en el escenario de una lucha épica, y los personajes enfrentan la muerte y la desesperación. Arya Stark desempeña un papel crucial en el desenlace.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_70"
+    },
+    {
+        "Title": "The Last of the Starks",
+        "Released": "2019-05-05",
+        "Episode": "4",
+        "Season": "8",
+        "Synopsis": "En el cuarto episodio, 'The Last of the Starks', los personajes lamentan las pérdidas sufridas en la batalla contra los muertos. Mientras se celebran victorias, se gestan nuevas conspiraciones. Daenerys Targaryen enfrenta desafíos a su liderazgo.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_71"
+    },
+    {
+        "Title": "The Bells",
+        "Released": "2019-05-12",
+        "Episode": "5",
+        "Season": "8",
+        "Synopsis": "La penúltima entrega, 'The Bells', presenta la caída de King's Landing. Daenerys Targaryen toma medidas extremas, y los personajes enfrentan dilemas morales. Arya Stark se embarca en una búsqueda personal, y el destino de Westeros pende de un hilo.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_72"
+    },
+    {
+        "Title": "The Iron Throne",
+        "Released": "2019-05-19",
+        "Episode": "6",
+        "Season": "8",
+        "Synopsis": "La serie llega a su conclusión con 'The Iron Throne'. Mientras los líderes de Westeros se reúnen para decidir el futuro del reino, Jon Snow enfrenta una elección imposible. El destino de los personajes se sella, y se revela quién se sienta en el Trono de Hierro.",
+        "youtubeLink": "ENLACE_DE_YOUTUBE_73"
+    }
+]
