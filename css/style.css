@@ -1,0 +1,429 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    width: 95%;
+    max-width: 1100px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.header {
+    background-color: rgb(0, 0, 0);
+    height: 170px;
+    width: 100%;
+    margin-bottom: 70px;
+    display: flex;
+    align-items: center;
+}
+
+li {
+    color: rgb(255, 255, 255);
+    font-family: 'Work Sans', sans-serif;
+    list-style-type: none;
+    display: inline;
+    font-size: 1.75rem;
+    padding: 2px;
+}
+
+li a {
+    color: rgb(255, 255, 255);
+    font-family: 'Work Sans', sans-serif;
+    text-decoration: none;
+    font-size: 1.75rem;
+    margin-right: 20px;
+}
+
+li a:hover {
+    color: rgb(222, 12, 23);
+}
+
+.imgheader {
+    margin-left: 200px;
+    width: 250px;
+    height: 120px;
+    object-fit: cover;
+}
+
+.menuheader {
+    margin-left: auto;
+}
+
+.menuheader ul li a {
+    font-size: 2.1rem;
+    font-family: 'Work Sans', sans-serif;
+    margin: 0 10px;
+}
+
+.current {
+    font-weight: bold;
+}
+
+h1 {
+    color: #0066cc;
+    font-size: 3em;
+}
+
+h2 {
+    color: #0066cc;
+    font-size: 2em;
+}
+
+h3 {
+    color: #0066cc;
+    font-size: 1.5em;
+}
+
+blockquote {
+    font-size: 1.5em;
+}
+
+
+p {
+    color: rgb(23, 23, 23);
+    font-size: 1.75rem;
+    font-family: 'Work Sans', sans-serif;
+    line-height: 1.5;
+}
+
+p.centered {
+    text-align: center;
+}
+
+iframe {
+    display: block;
+    margin: 40px auto 120px auto;
+}
+
+.categoria {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 531px;
+}
+
+.big-box {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(51, 51, 51);
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Work Sans', sans-serif;
+    text-decoration: none;
+    align-items: center;
+    line-height: 200px;
+    margin: 0 20px;
+    user-select: none;
+}
+
+.big-box:hover {
+    color: rgb(222, 12, 23);
+}
+
+.box-content {
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.box-content a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.box-content a:hover {
+    color: rgb(222, 12, 23);
+}
+
+.personaje {
+    height: 531px;
+}
+
+.mejora {
+    font-size: 8rem;
+}
+
+.enlaces {
+    height: 531px;
+    display: flex;
+    align-items: center;
+}
+
+.list-enlaces {
+    list-style-type: none;
+    padding: 0;
+    align-items: center;
+    width: 100%;
+}
+
+.list-enlaces li {
+    margin: 15px 0;
+    text-align: left;
+}
+
+.list-enlaces a {
+    color: black;
+    text-decoration: none;
+    display: block;
+    padding: 5px;
+}
+
+.lista-item {
+    color: rgb(23, 23, 23);
+    font-family: 'Work Sans', sans-serif;
+    list-style-type: square;
+    display: list-item;
+    list-style-position: outside;
+    font-size: 1.75rem;
+    padding-bottom: 15px;
+    user-select: none;
+}
+
+.detalleTemporada {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-left: 100px;
+}
+
+.temporada{
+    height: 531px;
+}
+
+.episodio{
+    margin-left: 100px;
+}
+
+.temporada-list{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    padding: 30px 0;
+}
+
+.temporada-item {
+    color: rgb(23, 23, 23);
+    background-color: #0066cc;
+    font-family: 'Work Sans', sans-serif;
+    list-style-type: none;
+    font-size: 1.75rem;
+    user-select: none;
+    padding: 20px;
+    margin: 10px;
+}
+
+.temporada-item:hover{
+   cursor: pointer;
+   background-color:#00aae4;
+   color: #fbfcfc;
+}
+
+.episodioContainer{
+    width: 1000px;
+    height: 780px;
+    background-color: #d2b48c;
+    border:rgb(23, 23, 23) solid;
+    margin: 20px 0px;
+}
+
+.episodioContainer div{
+    margin: 0px 40px;
+}
+
+#carousel-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+#carousel {
+    display: flex;
+}
+
+.carousel-item {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+
+.arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 2em;
+    color: #0066cc;
+    user-select: none;
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+#prev {
+    left: 10px;
+}
+
+#next {
+    right: 10px;
+}
+
+
+.footertext {
+    color: rgb(255, 255, 255);
+    font-size: 1.8rem;
+    font-family: 'Work Sans', sans-serif;
+    padding: 10px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    background-color: rgb(0, 0, 0);
+    height: 120px;
+    width: 100%;
+    margin-top: 72px;
+    display: flex;
+    align-items: center;
+}
+
+@media only screen and (max-width: 768px) {
+
+    /* Estilos para dispositivos móviles */
+    .container {
+        width: 90%;
+    }
+
+    .imgheader {
+        width: 100%;
+        height: auto;
+        object-fit: contain;
+        margin-left: 0;
+    }
+
+    .menuheader {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .menuheader li {
+        display: block;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .big-box {
+        width: 400px;
+        height: 400px;
+        margin: 20px;
+    }
+
+    .temporada{
+        height:415px;
+    }
+
+    .categoria {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .detalleTemporada {
+        flex-direction: column;
+        align-items: center;
+        margin: 0 10px;
+    }
+
+    .episodio {
+        margin-left: 0;
+    }
+
+    .temporada-list {
+        width:100%;
+        display: grid;
+        grid-template-columns: repeat(2, 150px);
+        grid-gap: 0 60px;
+    }
+
+    .temporada-item {
+        width:80%;
+    }
+
+    .episodioContainer {
+        width: auto;
+        height: auto;
+        margin: 20px 30px;
+    }
+
+    .episodioContainer div {
+        margin: 0 20px;
+    }
+
+    iframe {
+        width: 100%;
+        height: auto;
+        margin: 20px 0;
+    }
+
+    .footer {
+        margin-top: 80px;
+    }
+
+    .enlaces {
+        flex-direction: column; 
+        align-items: flex-start; 
+    }
+
+    .list-enlaces li {
+        margin: 10px 0;
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1455px) {
+    /* Estilos para tablets */
+
+    .container {
+        width: 95%;
+        max-width: 1100px;
+        margin: 0 auto;
+        position: relative;
+    }
+
+    .detalleTemporada {
+        margin: 0 10px;
+    }
+
+    .episodio {
+        margin-left: 0;
+    }
+
+    .episodioContainer {
+        width: auto;
+        height: auto;
+        margin: 20px 30px;
+    }
+
+    .episodioContainer div {
+        margin: 0 20px;
+    }
+
+    iframe {
+        width: 100%;
+        height: auto;
+        margin: 20px 0;
+    }
+
+}
