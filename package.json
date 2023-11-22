@@ -8,8 +8,8 @@
     "enlaces.html",
     "detallePersonaje.html",
     "detalleTemporada.html",
-    "javascript/script.js",
     "javascript/carrusel.js",
+    "javascript/script.js",
     "css/style.css"
   ],
   "browserslist": "> 0.5%, last 2 versions, not dead",
