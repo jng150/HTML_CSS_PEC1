@@ -104,7 +104,7 @@ iframe {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    height: 531px;
+    height: 521px;
 }
 
 .big-box {
@@ -142,7 +142,7 @@ iframe {
 }
 
 .personaje {
-    height: 531px;
+    height: 521px;
 }
 
 .mejora {
@@ -150,7 +150,7 @@ iframe {
 }
 
 .enlaces {
-    height: 531px;
+    height: 521px;
     display: flex;
     align-items: center;
 }
@@ -192,15 +192,15 @@ iframe {
     margin-left: 100px;
 }
 
-.temporada{
-    height: 531px;
+.temporada {
+    height: 521px;
 }
 
-.episodio{
+.episodio {
     margin-left: 100px;
 }
 
-.temporada-list{
+.temporada-list {
     display: flex;
     flex-direction: column;
     width: 250px;
@@ -218,21 +218,21 @@ iframe {
     margin: 10px;
 }
 
-.temporada-item:hover{
-   cursor: pointer;
-   background-color:#00aae4;
-   color: #fbfcfc;
+.temporada-item:hover {
+    cursor: pointer;
+    background-color: #00aae4;
+    color: #fbfcfc;
 }
 
-.episodioContainer{
+.episodioContainer {
     width: 1000px;
     height: 780px;
     background-color: #d2b48c;
-    border:rgb(23, 23, 23) solid;
+    border: rgb(23, 23, 23) solid;
     margin: 20px 0px;
 }
 
-.episodioContainer div{
+.episodioContainer div {
     margin: 0px 40px;
 }
 
@@ -305,7 +305,7 @@ iframe {
 
     /* Estilos para dispositivos móviles */
     .container {
-        width: 90%;
+        width: 100%;
     }
 
     .imgheader {
@@ -332,15 +332,12 @@ iframe {
         margin: 20px;
     }
 
-    .temporada{
-        height:415px;
-    }
 
     .categoria {
         flex-direction: column;
         align-items: center;
     }
-    
+
     .detalleTemporada {
         flex-direction: column;
         align-items: center;
@@ -352,14 +349,14 @@ iframe {
     }
 
     .temporada-list {
-        width:100%;
+        width: 100%;
         display: grid;
         grid-template-columns: repeat(2, 150px);
         grid-gap: 0 60px;
     }
 
     .temporada-item {
-        width:80%;
+        width: 80%;
     }
 
     .episodioContainer {
@@ -378,17 +375,16 @@ iframe {
         margin: 20px 0;
     }
 
-    .footer {
-        margin-top: 80px;
-    }
-
     .enlaces {
-        flex-direction: column; 
-        align-items: flex-start; 
+        display: flex;
+        flex-direction: row;
+        align-items: center;
     }
 
-    .list-enlaces li {
+    .list-enlaces li a {
         margin: 10px 0;
+        max-width: 100%;
+        font-size: 90%;
     }
 }
 
@@ -424,6 +420,10 @@ iframe {
         width: 100%;
         height: auto;
         margin: 20px 0;
+    }
+
+    .intro {
+        height: 521px;
     }
 
 }
