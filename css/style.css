@@ -104,7 +104,7 @@ iframe {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    height: 521px;
+    height: 531px;
 }
 
 .big-box {
@@ -142,7 +142,7 @@ iframe {
 }
 
 .personaje {
-    height: 521px;
+    height: 531px;
 }
 
 .mejora {
@@ -150,7 +150,7 @@ iframe {
 }
 
 .enlaces {
-    height: 521px;
+    height: 531px;
     display: flex;
     align-items: center;
 }
@@ -193,7 +193,7 @@ iframe {
 }
 
 .temporada {
-    height: 521px;
+    height: 531px;
 }
 
 .episodio {
@@ -423,7 +423,7 @@ iframe {
     }
 
     .intro {
-        height: 521px;
+        height: 531px;
     }
 
 }
