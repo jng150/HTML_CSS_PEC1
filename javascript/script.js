@@ -27,16 +27,22 @@ Array.from(temporadas).forEach(temporada => {
                 const { Title, Released, Episode, Season, Synopsis, youtubeLink } = episodio;
 
                 contenedorEpisodios.innerHTML += `
+                <article>
                     <div class="episodioContainer">
                         <div>
-                            <p><b>Título:</b> ${Title}</p>
-                            <p><b>Fecha de lanzamiento:</b> ${Released}</p>
+                        <header>
+                            <h1><b>Título:</b> ${Title}</h1>
+                            <p><b>Fecha de lanzamiento:</b> <time>${Released}</time></p>
+                        </header>
+                        <section>
                             <p><b>Número de episodio:</b> ${Episode}</p>
                             <p><b>Temporada:</b> ${Season}</p>
                             <p><b>Resumen:</b><br/> ${Synopsis}</p>
                             <p>${youtubeLink}</p>
+                        </section>
                         </div>
-                    </div>
+                    </div>              
+                </article>
                 `;
             });
         }
